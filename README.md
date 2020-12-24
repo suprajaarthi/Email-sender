@@ -1,2 +1,5 @@
 # Email-sender
-Email sender using node.js. A simple contact form has few fields which is stored and sends mail to the admin mail specified.
+
+A simple Email sender site using node.js. 
+
+A contact form stores various fields of the users and sends mail to the admnin mail id specified.
